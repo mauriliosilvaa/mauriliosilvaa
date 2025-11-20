@@ -15,7 +15,7 @@ Buscando oportunidades como Desenvolvedor Júnior ou Estagiário em TI
         <img 
             alt="Visite meu repositorio" 
             title="Meus Projetos" 
-            src=https://github.com/mauriliosilvaa/portfolio-/>
+            src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo" width="80" height="80">
     </a>
     <a href="https://www.linkedin.com/in/mauriliosilvaa/">
         <img 
