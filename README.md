@@ -11,7 +11,7 @@ Buscando oportunidades como Desenvolvedor Júnior ou Estagiário em TI
 • 	🌱 Aprendendo continuamente e evoluindo como desenvolvedor
 
 <p align="left">
-    <a href="colocar link do repositorio">
+    <a href="https://github.com/mauriliosilvaa/portfolio-">
         <img 
             alt="Visite meu repositorio" 
             title="Meus Projetos" 
